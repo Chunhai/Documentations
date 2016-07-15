@@ -1,2 +1,3 @@
-# ONOS-beginner
-For new users of ONOS
+# ONOS 
+
+Some documents about ONOS and XOS deployment
