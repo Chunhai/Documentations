@@ -12,3 +12,8 @@
 [CORD Deployment](https://github.com/Chunhai/Documentations/wiki/CORD-VTN-Fabric-vSG-Installation-from-Scratch)
 
 [Internet Access for VMs](https://github.com/Chunhai/Documentations/wiki/How-to-configure-the-VM-so-that-it-can-access-Internet)
+
+#VNF
+
+[Create-a-ntopng-Traffic-Analyzer-VNF](https://github.com/Chunhai/Documentations/wiki/Create-a-ntopng-Traffic-Analyzer-VNF)
+
