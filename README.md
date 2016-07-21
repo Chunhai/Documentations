@@ -1,8 +1,5 @@
-# Documents
 
-Some documents about ONOS and XOS deployment
-
-##ONOS
+#ONOS
 
 [Installing ONOS](https://github.com/Chunhai/Documentations/wiki/Install-and-Run-ONOS-on-OS-X)
 
@@ -10,7 +7,7 @@ Some documents about ONOS and XOS deployment
 
 [Segment Routing Implementation](https://github.com/Chunhai/Documentations/wiki/Deployment-of-Segment-Routing-with-hard-switches)
 
-##CORD
+#CORD
 
 [CORD Deployment](https://github.com/Chunhai/Documentations/wiki/CORD-VTN-Fabric-vSG-Installation-from-Scratch)
 
