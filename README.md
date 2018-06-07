@@ -31,3 +31,6 @@
 
 ## ONOS Apllication
 [velt](https://github.com/chunhai/sdn_ONOS_CORD/tree/master/velt) is designed for mirror traffic to VFN for monitoring purpose.
+
+## Testbed Demo
+![](https://github.com/chunhai/sdn_ONOS_CORD/blob/master/Images/two%20sites%20connection.png)
